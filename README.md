@@ -5,4 +5,5 @@ Site vitrine pour le réalisateur/photographe Allan DERRAS.
 
 
 <img src="./img/img3.png">
+<img src="./img/img1.png">
 
